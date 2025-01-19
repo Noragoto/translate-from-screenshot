@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81224e3a-d027-4aa0-a93f-888ff2d5a1e4" name="Changes" comment="Version 1">
-      <change afterPath="$PROJECT_DIR$/ArialRegular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/translate-from-screenshot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/translate-from-screenshot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -39,7 +36,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "text__to__console",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/user/PycharmProjects/translate-from-screenshot",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -131,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1" />
+    <MESSAGE value="Translate from image and put text on this image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Translate from image and put text on this image" />
   </component>
 </project>
