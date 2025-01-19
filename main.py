@@ -65,7 +65,7 @@ def on_capture_button_click():
 
 # Main menu
 root = tk.Tk()
-root.title("Распознавание текста с буфера обмена")
+root.title("Text recognition from the clipboard")
 root.geometry('600x400')
 
 # A button to capture a screenshot from the clipboard
